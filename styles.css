@@ -178,6 +178,13 @@ nav ul li a:hover::after{
     display: block;
 }
 
+.experience-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 
 /* ======portfolio======= */
 
